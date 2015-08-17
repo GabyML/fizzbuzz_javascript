@@ -1,0 +1,1 @@
+JavaScript version of FizzBuzz. Created on August the 17th, 2015. Gabriela May Lagunes. Makers Academy Student.
